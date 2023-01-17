@@ -9,4 +9,4 @@ Specific criteria for the password include having a length of 10-64 characters, 
 <img width="1014" alt="Screenshot 2023-01-17 at 15 56 10" src="https://user-images.githubusercontent.com/117038215/212949611-232b68ab-2d3a-4fb7-a518-10b7c4a5940b.png">
 
 
-https://sandramihaela.github.io/Password-Generator/
+## https://sandramihaela.github.io/Password-Generator/
